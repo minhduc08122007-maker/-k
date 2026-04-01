@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/-k.iml" filepath="$PROJECT_DIR$/.idea/-k.iml" />
+      <module fileurl="file://$PROJECT_DIR$/phailamsao/phailamsao.iml" filepath="$PROJECT_DIR$/phailamsao/phailamsao.iml" />
       <module fileurl="file://$PROJECT_DIR$/vuive/vuive.iml" filepath="$PROJECT_DIR$/vuive/vuive.iml" />
     </modules>
   </component>
